@@ -1,0 +1,24 @@
+data = {
+            'assunto': "[SmartCond] - Cadastro de Usuário",
+            'mensagem': "a",
+            'email': [
+                {
+                    'email_to': 'cecifagundes@hotmail.com,
+                    'name': 'ceci fagundes',
+                    'username': 'cecifagundes',
+                    'password': 'ceci101-1'
+                },
+                {
+                    'email_to': 'thiagokoerich@gmail.com',
+                    'name': 'thiago koerich',
+                    'username': 'thiagokoerich',
+                    'password': 'thiago103-1'
+                },
+                {
+                    'email_to': 'flaviaccauan@gmail.com',
+                    'name': 'flaviaccauan',
+                    'username': 'flavia ccauan',
+                    'password': 'flavia104-1'
+                }
+            ]
+        }
